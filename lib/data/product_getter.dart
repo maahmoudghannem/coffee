@@ -1,4 +1,4 @@
-import 'package:coffe_app/presentation/models/product_model.dart';
+import '../presentation/models/product_model.dart';
 
 List<Product> getProductData() => [
   Product(

@@ -1,4 +1,4 @@
-import 'package:coffe_app/presentation/widgets/product_card.dart';
+import '../widgets/product_card.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 
