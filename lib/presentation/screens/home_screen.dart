@@ -27,7 +27,6 @@ class HomeScreen extends StatelessWidget {
               ],
             ),
           ),
-          Gap(60),
           ProductCard(),
         ],
       ),
